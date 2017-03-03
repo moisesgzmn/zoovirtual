@@ -1,0 +1,24 @@
+html, body{
+	height: 100%;
+}
+
+a{
+	color: white;
+}
+
+#barra_superior{
+	background: #E0D909;
+}
+
+#side-menu{
+	background: #7D7474;
+	height: 100%;	
+}
+
+#side-menu a{
+	color: white;
+}
+
+.fa{
+	color: white;
+}
